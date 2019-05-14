@@ -1,0 +1,7 @@
+D:\Wantsome\Tema4.2\Tema4.2\bin\Debug\Tema4.2.exe.config
+D:\Wantsome\Tema4.2\Tema4.2\bin\Debug\Tema4.2.exe
+D:\Wantsome\Tema4.2\Tema4.2\bin\Debug\Tema4.2.pdb
+D:\Wantsome\Tema4.2\Tema4.2\obj\Debug\Tema4.2.csprojAssemblyReference.cache
+D:\Wantsome\Tema4.2\Tema4.2\obj\Debug\Tema4.2.csproj.CoreCompileInputs.cache
+D:\Wantsome\Tema4.2\Tema4.2\obj\Debug\Tema4.2.exe
+D:\Wantsome\Tema4.2\Tema4.2\obj\Debug\Tema4.2.pdb
